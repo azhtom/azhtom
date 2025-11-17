@@ -41,16 +41,13 @@ Stack: Python, Vue.js, Riffusion.
 Built Go + Python services for global retail systems, syncing **11M+ records** across stock and price flows.  
 Worked with Cadence, Presto, Kafka, and internal distributed tooling.  
 Improved reliability, handled incidents, and maintained technical documentation.  
-:contentReference[oaicite:0]{index=0}
 
 ### **Cornershop by Uber — Tech Lead, Integrations (2020–2022)**
 Led integrations for Peru & Costa Rica, architected pipelines, onboarded partners, and guided a distributed team.  
 Stack: Python, Airflow, Django, Node.js, Kubernetes.  
-:contentReference[oaicite:1]{index=1}
 
 ### **Other Roles**
 Worked across startups and agencies like **La Positiva**, **Tuxpass**, **MullenLowe**, **Netzun (CTO)**, **Cabify**, and **SrBurns**, delivering tools, platforms, and cloud infra end to end.  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
